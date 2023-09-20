@@ -1,5 +1,7 @@
 <a name="readme-top"></a>
-
+ 
+ <h1 align='center'> Project title🤘 </h1>
+ 
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
@@ -26,14 +28,9 @@
   - [❓ FAQ ](#-faq-)
   - [📝 License ](#-license-)
 
-# 📖 Javascript Group Capstone <a name="about-project"></a>
+# 📖 Project name <a name="about-project"></a>
 
-> In this project, a website for movies is being build. The external API used for showing movies and its details is [TVmaze API](https://www.tvmaze.com/api).
-> The webapp has 2 user interfaces.
-
-- A home page showing a list of movies items that you can interact with the like button
-- A popup window with detailed information about the movie. You can leave a comment as well.
-
+> In this project, a website for 
 ## 🛠 Built With <a name="built-with"></a>
 
 - HTML
@@ -61,34 +58,21 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Users can click on like buttons to like a movie**
-- **Users can click on comment button, read details and add comment to a movie**
-- **Users can filter the total number of movies displayed**
-- **Users can search up a new movie with the search button**
+- **feature 1**
+- **feature 2**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Presentaton Link <a name="live-demo" id="-presentaton-link-"></a>
 
-- [You can view the presentation of our project here](https://drive.google.com/file/d/1H5PkA-i1_EXW1Vu3j3ECRZrKJuYUP3YE/view)
 
 ## 🚀 Live Demo <a name="live-demo" id="-live-video-"></a>
 
-- [Live Demo Link](https://progress2002.github.io/LuxoPremier/dist/)
+
 
 ## 🚀 Project Details
 
-- [JavaScript capstone project](https://github.com/microverseinc/curriculum-javascript/blob/main/group-capstone/js_capstone.md)
-
-## 👥  Team
-- [ ] [Kennedy Owusu](https://github.com/kennedyowusu)
-- [ ] [Progress Ezeamaka](https://github.com/Progress2002)
-
-## 🚀 Code Review link
-
-- [Kennedy](https://github.com/kennedyowusu/Group-Capstone-Project/pull/25)
-
-- [Progress](https://github.com/kennedyowusu/Group-Capstone-Project/pull/26)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -139,23 +123,18 @@ You can deploy this project using:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Progress Ezeamaka**
+👤 **Lucas Erkana**
 
-- GitHub: [@githubhandle](https://github.com/Progress2002)
-- Twitter: [@twitterhandle](https://twitter.com/Progress_2002)
-- LinkedIn: [LinkedIn](www.linkedin.com/in/progress-c-ezeamaka)
-
-👤 **Kennedy Owusu**
-
-- GitHub: [@kennedyowusu](https://github.com/kennedyowusu)
-- Twitter: [@\_iamkobby](https://twitter.com/_iamkobby)
-- LinkedIn: [kennedy-owusu](https://linkedin.com/in/kennedy-owusu)
+- GitHub: [@Lucask-Erkana](https://github.com/Lucask-Erkana)
+- Twitter: [@Lucas_David_22](https://twitter.com/@Lucas_David_22)
+- LinkedIn: [Lucas Erkana](https://www.linkedin.com/in/lucas-erkana/)
+- Frontend Mentor - [@Lucask-Erkana](https://www.frontendmentor.io/profile/Lucask-Erkana)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Implement additional home pages, one page per category of movies**
+- [ ] **More features**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -163,7 +142,7 @@ You can deploy this project using:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Progress2002/LuxoPremier/issues).
+Feel free to check the [issues page]().
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -177,9 +156,8 @@ Please give a ⭐️ if you like this project! 🤝
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- Thanks to [Microverse](https://www.microverse.org/) for giving this opportunity to learn ...
-- Code Reviewers & Coding Partners.
-- Hat tip to anyone whose code was used.
+- Thanks to .....
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -201,6 +179,6 @@ curl -X POST https://us-central1-involvement-api.cloudfunctions.net/capstoneApi/
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT]([./LICENSE](https://github.com/Progress2002/LuxoPremier/blob/develop/LICENSE) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
