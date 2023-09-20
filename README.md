@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
  
  <h1 align='center'> Project title🤘 </h1>
- 
+
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
@@ -134,7 +134,7 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **More features**
+- [ ] **future features**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
